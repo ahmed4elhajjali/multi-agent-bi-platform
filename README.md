@@ -56,3 +56,15 @@ The system is built around a **Multi-Agent Framework**:
 ---
 
 ## 📁 Project Structure (Example)
+project/
+│
+├── app/
+│ ├── agents/
+│ ├── memory/
+│ ├── tools/
+│ ├── ui/
+│ └── main.py
+│
+├── data/
+├── vectorstore/
+├── requirements.txt
