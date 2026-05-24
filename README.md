@@ -68,3 +68,7 @@ project/
 ├── data/
 ├── vectorstore/
 ├── requirements.txt
+
+
+
+the demo llink [https://www.linkedin.com/posts/ahmed-mostafa-35a320306_artificialintelligence-ai-machinelearning-ugcPost-7463594951772151810-aRkX/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE4AZ_YB7ojiwtHuCDp-zbIHoizB1nVnBD0]
